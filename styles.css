@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;  
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+.main-img {
+    height: 270px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.one {
+    height: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+    text-align: center;
+}
+.pirate {
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+.onep {
+    display: none;
+}
+.secondp {
+    display: none;
+}
+.wave {
+    height: 200px;
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+.final {
+    display: none;
+    text-align: center;
+    font-size: 35px;
+}
+.willy {
+    height: 400px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: none;
+}
+h2 {
+    display: none;   
+}
+.end {
+    font-family: Hanalei Fill;
+    font-size: 40px;
+    display: none;
+}
